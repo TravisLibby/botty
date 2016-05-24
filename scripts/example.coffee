@@ -13,6 +13,6 @@ module.exports = (robot) ->
   robot.respond /truck/i, (res) ->
     robot.http("http://localhost:8081/trucks")
       .get() (err, response, body) ->
-        robot.messageRoom 'BotBotBot', #{body}
+        res.send "Got back #{body}"
 
   
