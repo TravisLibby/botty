@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BottyMcBotface
 
 BottyMcBotface is a chat bot built on the [Hubot][hubot] framework. It was
@@ -216,4 +215,4 @@ you're having issues.
 =======
 # botty
 A fun robot for Xeros.
->>>>>>> 1d1c7d737e4c0573f21f3a6fb1a8b1891f94e665
+
