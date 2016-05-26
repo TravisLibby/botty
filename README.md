@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BottyMcBotface
 
 BottyMcBotface is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +213,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+=======
+# botty
+A fun robot for Xeros.
+>>>>>>> 1d1c7d737e4c0573f21f3a6fb1a8b1891f94e665
