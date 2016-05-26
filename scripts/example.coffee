@@ -11,7 +11,7 @@
 module.exports = (robot) ->
 
   robot.respond /truck/i, (res) ->
-    robot.http("http://localhost:8081/trucks")
+    robot.http("https://evening-lake-92776.herokuapp.com/trucks")
       .get() (err, response, body) ->
         res.send "Got back #{body}"
 
